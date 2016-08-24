@@ -38,6 +38,6 @@
   "dependencies": {
     "xhr": "^1.17.0",
     "babelify": "^6.0.0",
-    "react": "0.15.x"
+    "react": "15.3.x"
   }
 }
